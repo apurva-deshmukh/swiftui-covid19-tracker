@@ -9,6 +9,9 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @ObservedObject var covidFetch = COVIDFetchRequest()
+    
     var body: some View {
         Text("Hello, World!")
     }
