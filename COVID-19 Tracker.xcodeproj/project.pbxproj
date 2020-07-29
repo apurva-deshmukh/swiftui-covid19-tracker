@@ -21,6 +21,7 @@
 		EE3C4FD224D1C7B00021E0E5 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3C4FD124D1C7B00021E0E5 /* Extension.swift */; };
 		EE3C4FD624D1CCEF0021E0E5 /* TotalDataCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3C4FD524D1CCEF0021E0E5 /* TotalDataCard.swift */; };
 		EE3C4FD824D1CF930021E0E5 /* TotalDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3C4FD724D1CF930021E0E5 /* TotalDataView.swift */; };
+		EE3C4FDA24D1D2750021E0E5 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3C4FD924D1D2750021E0E5 /* SearchView.swift */; };
 		EE58A7DB24D1198300BB800D /* COVIDFetchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE58A7DA24D1198300BB800D /* COVIDFetchRequest.swift */; };
 		EE58A7DD24D11BE400BB800D /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE58A7DC24D11BE400BB800D /* Model.swift */; };
 /* End PBXBuildFile section */
@@ -44,6 +45,7 @@
 		EE3C4FD124D1C7B00021E0E5 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		EE3C4FD524D1CCEF0021E0E5 /* TotalDataCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalDataCard.swift; sourceTree = "<group>"; };
 		EE3C4FD724D1CF930021E0E5 /* TotalDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalDataView.swift; sourceTree = "<group>"; };
+		EE3C4FD924D1D2750021E0E5 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		EE58A7DA24D1198300BB800D /* COVIDFetchRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = COVIDFetchRequest.swift; sourceTree = "<group>"; };
 		EE58A7DC24D11BE400BB800D /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 				EE3C4FD724D1CF930021E0E5 /* TotalDataView.swift */,
 				EE3C4FCF24D1C6E10021E0E5 /* CountryDataRowView.swift */,
 				EE3C4FD524D1CCEF0021E0E5 /* TotalDataCard.swift */,
+				EE3C4FD924D1D2750021E0E5 /* SearchView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				EE3C4FD224D1C7B00021E0E5 /* Extension.swift in Sources */,
 				EE3C4FCC24D1C4420021E0E5 /* RecentView.swift in Sources */,
 				EE1F92A224D116C2008DF222 /* COVID_19_Tracker.xcdatamodeld in Sources */,
+				EE3C4FDA24D1D2750021E0E5 /* SearchView.swift in Sources */,
 				EE3C4FCE24D1C57B0021E0E5 /* ListHeaderView.swift in Sources */,
 				EE3C4FD624D1CCEF0021E0E5 /* TotalDataCard.swift in Sources */,
 				EE3C4FD024D1C6E10021E0E5 /* CountryDataRowView.swift in Sources */,
