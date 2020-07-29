@@ -16,7 +16,7 @@
 		EE1F92A924D116C5008DF222 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE1F92A824D116C5008DF222 /* Preview Assets.xcassets */; };
 		EE1F92AC24D116C5008DF222 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE1F92AA24D116C5008DF222 /* LaunchScreen.storyboard */; };
 		EE58A7DB24D1198300BB800D /* COVIDFetchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE58A7DA24D1198300BB800D /* COVIDFetchRequest.swift */; };
-		EE58A7DD24D11BE400BB800D /* Modal.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE58A7DC24D11BE400BB800D /* Modal.swift */; };
+		EE58A7DD24D11BE400BB800D /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE58A7DC24D11BE400BB800D /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		EE1F92AB24D116C5008DF222 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE1F92AD24D116C5008DF222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE58A7DA24D1198300BB800D /* COVIDFetchRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = COVIDFetchRequest.swift; sourceTree = "<group>"; };
-		EE58A7DC24D11BE400BB800D /* Modal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modal.swift; sourceTree = "<group>"; };
+		EE58A7DC24D11BE400BB800D /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 				EE1F929C24D116C2008DF222 /* AppDelegate.swift */,
 				EE1F929E24D116C2008DF222 /* SceneDelegate.swift */,
 				EE58A7DA24D1198300BB800D /* COVIDFetchRequest.swift */,
-				EE58A7DC24D11BE400BB800D /* Modal.swift */,
+				EE58A7DC24D11BE400BB800D /* Model.swift */,
 				EE1F92A324D116C2008DF222 /* ContentView.swift */,
 				EE1F92A524D116C5008DF222 /* Assets.xcassets */,
 				EE1F92AA24D116C5008DF222 /* LaunchScreen.storyboard */,
@@ -224,7 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE1F929D24D116C2008DF222 /* AppDelegate.swift in Sources */,
-				EE58A7DD24D11BE400BB800D /* Modal.swift in Sources */,
+				EE58A7DD24D11BE400BB800D /* Model.swift in Sources */,
 				EE1F929F24D116C2008DF222 /* SceneDelegate.swift in Sources */,
 				EE1F92A424D116C2008DF222 /* ContentView.swift in Sources */,
 				EE58A7DB24D1198300BB800D /* COVIDFetchRequest.swift in Sources */,
